@@ -1,3 +1,14 @@
+"""
+Projektname
+-----------
+Kurze Beschreibung des Programms.
+
+Autor: Dein Name
+Universität: Name der Universität
+Veranstaltung: z. B. Seminar XY
+Datum: September 2026
+"""
+
 import sys
 
 from PySide6.QtWidgets import QApplication
