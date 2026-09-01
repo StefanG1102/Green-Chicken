@@ -78,27 +78,25 @@ Falls du dieses Projekt oder Teile davon in eigener Forschung, einer Arbeit oder
 **APA:**
 
 ```
-Nachname, V. (2026). Projektname (Version 1.0) [Computer software]. GitHub. https://github.com/<username>/<repo>
+Nachname, S. (2026). GreenChicken (Version 0.1) [Computer software]. GitHub. https://github.com/StefanG1102/Green-Chicken
 ```
 
 **BibTeX:**
 
 ```bibtex
 @software{nachname2026projektname,
-  author  = {Nachname, Vorname},
-  title   = {Projektname},
+  author  = {Ganswint, Stefan},
+  title   = {GreenChicken},
   year    = {2026},
-  version = {1.0},
-  url     = {https://github.com/<username>/<repo>},
-  note    = {Universität, im Rahmen von [Veranstaltung]}
+  version = {0.1},
+  url     = {https://github.com/StefanG1102/Green-Chicken}
 }
 ```
 
 ## Autor
 
-- **Name:** [Dein Name]
-- **Universität:** [Name der Universität]
-- **Kontakt:** [E-Mail, optional]
+- **Name:** Ganswint, Stefan
+- **Kontakt:** ganswintstefan@gmail.com
 
 ## Funktionsweise
 
