@@ -78,13 +78,13 @@ Falls du dieses Projekt oder Teile davon in eigener Forschung, einer Arbeit oder
 **APA:**
 
 ```
-Nachname, S. (2026). GreenChicken (Version 0.1) [Computer software]. GitHub. https://github.com/StefanG1102/Green-Chicken
+Ganswint, S. (2026). GreenChicken (Version 0.1) [Computer software]. GitHub. https://github.com/StefanG1102/Green-Chicken
 ```
 
 **BibTeX:**
 
 ```bibtex
-@software{nachname2026projektname,
+@software{Ganswint2026GreenChicken,
   author  = {Ganswint, Stefan},
   title   = {GreenChicken},
   year    = {2026},
